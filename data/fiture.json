@@ -1,0 +1,17 @@
+[
+    {
+        "admin":{
+            "sideBar":{"Dashboard":"landmark","Transaksi":"coins","Tambah Nasabah":"cash-register","Laporan":"file-invoice-dollar"},
+            "Dashboard":["nasabah","setoran","penarikan","saldo"],
+            "Transaksi":["Setor Tunai","Tarik Tunai"]
+        }
+    },
+    {
+        "user":{
+            "sideBar":{"Dashboard":"landmark","Transaksi":"coins","Laporan":"file-invoice-dollar"},
+            "icon":["landmark","coins","file-invoice-dollar"],
+            "Dashboard":["saldo","no_req"],
+            "Transaksi":["Transfer","Bayar SPP"]
+        }
+    }
+]
