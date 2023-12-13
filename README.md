@@ -1,4 +1,4 @@
-buat data base baru dengan nama saku_siswa lalu import file db/sakusiswa.sql
+buat data base baru dengan nama saku_siswa lalu import file db/saku_siswa.sql
 
 akun yang sudah tersedia
 Admin
